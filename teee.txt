@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-yyyy
-=======
-ggg
-jjjjj
->>>>>>> 2288c1da4655c12f67d2db2b86d23f7013c6b9f2
+
